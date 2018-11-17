@@ -23,7 +23,7 @@ COPY codebrowser.sh /root/
 
 WORKDIR /root/
 
-ENV GLIBC_VERSION 2.26
+ENV GLIBC_VERSION 2.23
 
 RUN git clone https://github.com/woboq/woboq_codebrowser.git && \
     chmod +x codebrowser.sh && \
