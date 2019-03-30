@@ -11,7 +11,7 @@ visit `http://localhost:8080/public_html/glibc` , then you can search function d
 
 ![woboq.jpg](https://i.loli.net/2018/11/08/5be39506ba697.jpg)
 
-## include libc
+## supported libc version
 - 2.19
 - 2.23
 - 2.24
