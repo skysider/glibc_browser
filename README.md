@@ -4,7 +4,7 @@ glibc online code browser based on woboq
 ## how to use
 
 ```shell
-docker run -d -p 8080:80 skysider/glibc_browser
+docker run -d -p 8080:80 skysider/glibc_browser:<glibc_version>
 ```
 
 visit `http://localhost:8080/public_html/glibc` , then you can search function definition or  something else with the search box on the left top corner.
